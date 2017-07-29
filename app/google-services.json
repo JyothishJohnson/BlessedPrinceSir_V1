@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357421271035",
+    "project_id": "blessedprincesir"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357421271035:android:83157f9221e28a9d",
+        "android_client_info": {
+          "package_name": "com.example.android.blessedprincesir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357421271035-ckjv1o2isgrahv04v2n451i9tcpm1ipk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.blessedprincesir",
+            "certificate_hash": "d9118dc8ce8b6044de348ac0e0b2459b65496dda"
+          }
+        },
+        {
+          "client_id": "357421271035-berqi6c5qll94u38ojr9ma4gg6gv5t1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHR7ZaTuXG-DSvaKceWFRkXiwe13lRd1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
